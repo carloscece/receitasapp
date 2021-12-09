@@ -15,5 +15,10 @@
     "url": "https://github.com/carloscece/receitasapp/issues"
   },
   "homepage": "https://github.com/carloscece/receitasapp#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.1.0"
+  }
 }
